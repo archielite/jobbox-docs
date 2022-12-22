@@ -38,6 +38,6 @@ Admin username: `admin`
 
 Admin password: `12345678`
 
-## Botble Team
+## Archi Elite
 
-Visit us at [**botble.com**](https://botble.com).
+Visit us at [**archielite.com**](https://archielite.com).
