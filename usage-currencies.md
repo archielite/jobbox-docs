@@ -1,6 +1,6 @@
 # Currencies
 
-Go to `Admin` -> `Ecommerce` -> `Basic Settings` -> **Currencies** to setup currencies.
+Go to `Admin` -> `Job Board` -> `Basic Settings` -> **Currencies** to setup currencies.
 
 ![](../images/currencies.png)
 
