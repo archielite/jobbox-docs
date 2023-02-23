@@ -4,7 +4,7 @@
 
 Go to Admin -> Settings -> General to activate your license
 
-![](/images/license-page.jpg)
+![](../images/license.png)
 
 If you don't know how to get purchase code, check [this article](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code).
 
@@ -14,6 +14,7 @@ Don't try to activate it many times, your domain & IP will be added to blacklist
 :::
 
 ## Notes
+
 - Regular License just can be activated on 1 domain.
 - If you want to reinstall or move your website to new server, you need to back up your license in `/storage/.license` or deactivate
   your license then re-activate it again when your website before moving to new server.
