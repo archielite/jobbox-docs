@@ -1,3 +1,3 @@
 # Release Notes
 
-Check out the release notes on [CodeCanyon](https://1.eenvato.market/e4oxqX).
+Check out the release notes on [CodeCanyon](https://1.envato.market/e4oxqX).
