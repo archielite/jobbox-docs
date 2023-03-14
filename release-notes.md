@@ -1,3 +1,3 @@
 # Release Notes
 
-Check release notes on [CodeCanyon](https://codecanyon.net/item/jobbox-laravel-job-portal-multilingual-system/42582644).
+Check out the release notes on [CodeCanyon](https://1.envato.market/e4oxqX).
