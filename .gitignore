@@ -1,4 +1,13 @@
 .DS_Store
+api.md
 ssl.md
-usage-analytics.md
+plugin-language.md
+plugin-backup.md
+theme-rename.md
+upgrade.md
 usage-email.md
+usage-analytics.md
+usage-media-s3.md
+usage-media-bunnycdn.md
+usage-media-wasabi.md
+usage-social-login.md
