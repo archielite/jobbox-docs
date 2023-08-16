@@ -4,7 +4,7 @@
 
 Go to `Admin` -> `Apearance` -> `Theme options`,  at the **Page** tab, you can choose what homepage do you want to display.
 
-![](../images/homepage-setup.png)
+![](./images/homepage-setup.png)
 
 ## Customize homepage
 

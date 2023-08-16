@@ -52,11 +52,11 @@ JobBox is based on Botble CMS, checkout the video for the installation.
 
 - Create a database and import data from `database.sql` (it's located in source code).
 
-![](../images/directory-and-database.png)
+![](./images/directory-and-database.png)
 
 - Update your database credentials and `APP_URL` in `.env`.
 
-![](../images/env-example.png)
+![](./images/env-example.png)
 
 - Go to `/admin` to access to admin panel.
 - The default admin account is `admin` - `12345678`.
