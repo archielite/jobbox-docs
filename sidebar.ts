@@ -5,7 +5,7 @@ export default [
   {
     text: 'Prologue',
     items: [
-      { text: 'Release Notes', link: '/jobbox/release-notes' },
+      { text: 'Release Notes', link: '/jobbox/releases' },
       { text: 'Upgrade Guide', link: '/jobbox/upgrade' },
     ],
   },
