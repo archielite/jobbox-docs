@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**JobBox** - is a multi-language job board System using Laravel 9.x. It's a product built on **Botble CMS**.
+**JobBox** - is a multi-language job board System using Laravel 10.x. It's a product built on **Botble CMS**.
 
 ![](images/overview.png)
 
